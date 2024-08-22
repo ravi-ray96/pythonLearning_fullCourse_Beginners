@@ -1,0 +1,7 @@
+Ravi = salesman, ($5000)
+Jam = employee, ($3000)
+Joy = Customer, (--)
+Sam = Manager, ($800k-yearly)
+Hari = General Manager, ($120k-yearly)
+Jim = Human Resources, ($7k)
+Shyam = Human Resources, ($7k)
